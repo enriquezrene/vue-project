@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Organic Whole Pineapple",
+    "image": "img.png",
+    "price": 5
+  },
+  {
+    "name": "Dried Pineapple Rings",
+    "image": "img_1.png",
+    "price": 6
+  },
+  {
+    "name": "Honey-Glazed Pineapple Spears",
+    "image": "img_2.png",
+    "price": 7
+  },
+  {
+    "name": "Diced Pineapple Cups",
+    "image": "img_3.png",
+    "price": 4
+  },
+  {
+    "name": "Freeze-Dried Pineapple Chunks",
+    "image": "img_4.png",
+    "price": 8
+  },
+  {
+    "name": "Spiced Chili-Lime Pineapple",
+    "image": "img_5.png",
+    "price": 6
+  },
+  {
+    "name": "Pineapple Juice - Cold Pressed",
+    "image": "img_6.png",
+    "price": 5
+  },
+  {
+    "name": "Candied Pineapple Tidbits",
+    "image": "img_7.png",
+    "price": 7
+  },
+  {
+    "name": "Dark Chocolate Covered Pineapple",
+    "image": "img_8.png",
+    "price": 9
+  },
+  {
+    "name": "Grilled Pineapple Slices",
+    "image": "img_9.png",
+    "price": 6
+  }
+]
